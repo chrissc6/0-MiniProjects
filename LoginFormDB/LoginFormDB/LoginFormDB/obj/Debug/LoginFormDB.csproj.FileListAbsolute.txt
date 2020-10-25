@@ -1,0 +1,11 @@
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\bin\Debug\LoginFormDB.exe.config
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\bin\Debug\LoginFormDB.exe
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\bin\Debug\LoginFormDB.pdb
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.csprojAssemblyReference.cache
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.Form1.resources
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.Properties.Resources.resources
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.csproj.GenerateResource.cache
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.csproj.CoreCompileInputs.cache
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.exe
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.pdb
+C:\repos\0-MiniProjects\LoginFormDB\LoginFormDB\LoginFormDB\obj\Debug\LoginFormDB.Login.resources
