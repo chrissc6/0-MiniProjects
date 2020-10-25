@@ -20,6 +20,7 @@ namespace CoolUniversity.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.Message = "Welcome to Cool University";
             return View();
         }
 
