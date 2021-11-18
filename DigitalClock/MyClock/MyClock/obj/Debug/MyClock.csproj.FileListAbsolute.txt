@@ -7,3 +7,14 @@ C:\repos\DigitalClock\MyClock\MyClock\bin\Debug\MyClock.exe
 C:\repos\DigitalClock\MyClock\MyClock\bin\Debug\MyClock.pdb
 C:\repos\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.exe
 C:\repos\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.pdb
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\bin\Debug\MyClock.exe.config
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\bin\Debug\MyClock.exe
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\bin\Debug\MyClock.pdb
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.csproj.AssemblyReference.cache
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.csproj.SuggestedBindingRedirects.cache
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.Form1.resources
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.Properties.Resources.resources
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.csproj.GenerateResource.cache
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.csproj.CoreCompileInputs.cache
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.exe
+C:\Repos\GitHub\0-MiniProjects\DigitalClock\MyClock\MyClock\obj\Debug\MyClock.pdb

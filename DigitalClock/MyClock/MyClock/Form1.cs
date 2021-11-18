@@ -20,67 +20,108 @@ namespace MyClock
         Timer t = new Timer();
         private void Form1_Load(object sender, EventArgs e)
         {
-            t.Interval = 1000; //1sec
+            t.Interval = 1; //1000 = 1sec
             t.Tick += new EventHandler(this.t_Tick);
             t.Start();
         }
 
         private void t_Tick(object sender, EventArgs e)
         {
-            int h = DateTime.Now.Hour;
-            int m = DateTime.Now.Minute;
-            int s = DateTime.Now.Second;
             bool am = true;
+
+            System.DateTime moment = DateTime.Now;
+            int year = moment.Year;
+            int month = moment.Month;
+            int day = moment.Day;
+            int hour = moment.Hour;
+            int minute = moment.Minute;
+            int second = moment.Second;
+            int millisecond = moment.Millisecond;
+
+            label_day.Text = day.ToString();
+            label_month.Text = month.ToString();
+            label_year.Text = year.ToString();
 
             string time = "";
 
-            if (h == 0)
+            if (hour == 0)
             {
-                h =  12;
+                hour =  12;
             }
-            if (h > 12)
+            if (hour > 12)
             {
-                h = h - 12;
+                hour = hour - 12;
                 am = false;
             }
 
-            if (h < 10)
+            if (hour < 10)
             {
-                time = $"0{h}:";
+                label_timeHour.Text = $"0{hour.ToString()}:";
             }
             else
             {
-                time = $"{h.ToString()}:";
+                label_timeHour.Text = $"{hour.ToString()}:";
             }
 
-            if (m < 10)
+            if (minute < 10)
             {
-                time += $"0{m}:";
+                label_timeMinute.Text = $"0{minute.ToString()}:";
             }
             else
             {
-                time += $"{m.ToString()}:";
+                label_timeMinute.Text = $"{minute.ToString()}:";
             }
 
-            if (s < 10)
+            if (second < 10)
             {
-                time += $"0{s}";
+                label_timeSecond.Text = $"0{second.ToString()}:";
             }
             else
             {
-                time += $"{s.ToString()}";
+                label_timeSecond.Text = $"{second.ToString()}:";
+            }
+
+            if (millisecond < 10)
+            {
+                label_timeMillisecond.Text = $"{millisecond.ToString()}";
+            }
+            else
+            {
+                label_timeMillisecond.Text = $"{millisecond.ToString()}";
             }
 
             if (am)
             {
-                time += $" AM";
+                label_timeBool.Text = "AM";
             }
             else
             {
-                time += $" PM";
+                label_timeBool.Text = "PM";
             }
-
-            label1.Text = time;
         }
     }
 }
+
+
+/*
+ * Sunday
+ * Monday
+ * Tuesday
+ * Wednesday
+ * Thursday
+ * Friday
+ * Saturday
+ * 
+ * January
+ * February
+ * March
+ * April
+ * May
+ * June
+ * July
+ * August
+ * September
+ * October
+ * November
+ * December
+*/
